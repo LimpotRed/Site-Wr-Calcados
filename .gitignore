@@ -1,0 +1,46 @@
+# Dependências
+node_modules/
+
+# Builds e saídas geradas
+build/
+out/
+
+# Arquivos de cache
+.cache/
+.vite/
+.temp/
+.tmp/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.log
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações locais de IDE/Editor
+.vscode/
+.idea/
+
+# Arquivos de lock (se usar apenas um gerenciador, mantenha o dele)
+# Exemplo: se usar npm, pode manter o package-lock.json e ignorar os outros
+yarn.lock
+pnpm-lock.yaml
+
+# Testes e relatórios
+coverage/
+*.lcov
+
+# Outros opcionais
+*.bak
+*.tmp
