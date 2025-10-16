@@ -933,6 +933,15 @@ function App() {
             "https://i.ibb.co/G33cH2hV/IMG-20251016-WA0120.jpg"
         ]},
     }},
+     //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 49, name: 'New Balance 530', category: 'Tênis', oldPrice: 'R$ 350,00', price: 'R$ 310,00', priceValue: 310.00, gender: 'Feminino', colors: {
+        '#ffffffff': { name: 'Branco', images: [
+            "https://i.ibb.co/TxxbZtfj/Imagem-do-Whats-App-de-2025-10-16-s-14-28-13-9830adb0.jpg",
+          "https://i.ibb.co/FqJcQ7tf/Imagem-do-Whats-App-de-2025-10-16-s-14-28-13-756dae8d.jpg",
+          "https://i.ibb.co/LhHG22d5/Imagem-do-Whats-App-de-2025-10-16-s-14-28-12-8b09b62d.jpg",
+          "https://i.ibb.co/pjy1hVMx/Imagem-do-Whats-App-de-2025-10-16-s-14-28-13-583e5f8b.jpg",
+        ]},
+    }},
       
       
 
