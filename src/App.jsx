@@ -376,6 +376,28 @@ function App() {
               "https://i.ibb.co/JR0w80tb/imagem-2025-10-13-105434589.png",
               "https://i.ibb.co/xthpK7Fy/Captura-de-tela-2025-10-13-105505.png",
               "https://i.ibb.co/ksQVG0PB/Captura-de-tela-2025-10-13-105459.png",
+              "https://i.ibb.co/YTVK6WBK/IMG-20251015-WA0081.jpg",
+              "https://i.ibb.co/93HYtY5f/IMG-20251015-WA0083.jpg",
+              "https://i.ibb.co/9HXDVZ2k/IMG-20251015-WA0085.jpg",
+              "https://i.ibb.co/TqRqKKZg/IMG-20251015-WA0087.jpg",
+              "https://i.ibb.co/GvsKyQDp/IMG-20251015-WA0090.jpg",
+              "https://i.ibb.co/Q7Bw9gHs/IMG-20251015-WA0091.jpg"
+          ]},
+          '#000000ff': { name: 'Preto', images: [
+              "https://i.ibb.co/Sw2DH7Hq/IMG-20251015-WA0094.jpg",
+              "https://i.ibb.co/ymdty83X/IMG-20251015-WA0095.jpg",
+              "https://i.ibb.co/fV1YwNS1/IMG-20251015-WA0093.jpg",
+              "https://i.ibb.co/F4ZhvzjH/IMG-20251015-WA0096.jpg"
+          ]},
+          '#38d211ff': { name: 'Cores Variadas', images: [
+              "https://i.ibb.co/rGVHH6hp/IMG-20251015-WA0077.jpg",
+              "https://i.ibb.co/tTtgGpp4/IMG-20251015-WA0078.jpg",
+              "https://i.ibb.co/Fqy079LY/IMG-20251015-WA0079.jpg",
+              "https://i.ibb.co/CsYn3hCf/IMG-20251015-WA0080.jpg",
+              "https://i.ibb.co/nsnNJQ6s/IMG-20251015-WA0082.jpg",
+              "https://i.ibb.co/FqXJg3G9/IMG-20251015-WA0084.jpg",
+              "https://i.ibb.co/BHMrhC3V/IMG-20251015-WA0086.jpg",
+              "https://i.ibb.co/p62f1yMr/IMG-20251015-WA0089.jpg"
           ]},
       }},
 //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
@@ -800,6 +822,60 @@ function App() {
             "https://i.ibb.co/jvDkrKZr/IMG-20251006-WA0239.jpg",
         ]},
     }},
+       //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 43, name: 'Nike SB', category: 'Tênis', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', colors: {
+        '#387b48ff': { name: 'Verde', images: [
+            "https://i.ibb.co/S4v7mLyq/IMG-20251015-WA0120.jpg",
+            "https://i.ibb.co/5W0z4cGk/IMG-20251015-WA0115.jpg",
+            "https://i.ibb.co/KzSqCCjs/IMG-20251015-WA0117.jpg"
+        ]},
+        '#d11e57ff': { name: 'Rosa', images: [
+            "https://i.ibb.co/WvhBKNqB/IMG-20251016-WA0011.jpg",
+            "https://i.ibb.co/pvkknXgz/IMG-20251016-WA0009.jpg",
+            "https://i.ibb.co/XxZ0fXJ6/IMG-20251016-WA0010.jpg"
+        ]},
+        '#06279eff': { name: 'Azul', images: [
+            "https://i.ibb.co/KpGtDhY5/IMG-20251015-WA0123.jpg",
+            "https://i.ibb.co/DP8XzWVh/IMG-20251015-WA0124.jpg",
+            "https://i.ibb.co/FLtFbmjZ/IMG-20251015-WA0125.jpg"
+        ]},
+    }},
+       //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 44, name: 'Nike Dunk Low Labubu', category: 'Tênis', oldPrice: 'R$ 250,00', price: 'R$ 200,00', priceValue: 200.00, gender: 'Unisex', colors: {
+        '#000000ff': { name: 'Perto', images: [
+            "https://i.ibb.co/7dgFV04T/IMG-20251016-WA0018.jpg",
+        ]},
+        '#d11e57ff': { name: 'Rosa', images: [
+            "https://i.ibb.co/FqdvmH0C/IMG-20251016-WA0016.jpg",
+        ]},
+        '#06279eff': { name: 'Azul', images: [
+            "https://i.ibb.co/vCGhvpxD/IMG-20251016-WA0015.jpg",
+        ]},
+         '#854a0bff': { name: 'Marrom', images: [
+            "https://i.ibb.co/v7VhZKX/IMG-20251016-WA0017.jpg"
+        ]},
+    }},
+      //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 45, name: 'Nike Cortez Retro', category: 'Tênis', oldPrice: 'R$ 200,00', price: 'R$ 160,00', priceValue: 160.00, gender: 'Feminino', colors: {
+        '#ffffffff': { name: 'Branco', images: [
+            "https://i.ibb.co/hJSjRYc4/IMG-20251016-WA0019.jpg",
+            "https://i.ibb.co/F4MZK5Ry/IMG-20251016-WA0022.jpg",
+            "https://i.ibb.co/39kXmg87/IMG-20251016-WA0020.jpg",
+            "https://i.ibb.co/JWFvr8RS/IMG-20251016-WA0021.jpg"
+        ]},
+    }},
+    //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 46, name: 'Slide Gucci', category: 'Chinelos', oldPrice: 'R$ 120,00', price: 'R$ 80,00', priceValue: 80.00, gender: 'Feminino', colors: {
+        '#ffffffff': { name: 'Branco', images: [
+            "https://i.ibb.co/5h8tr0PT/Imagem-do-Whats-App-de-2025-10-15-s-19-30-30-38ce8352.jpg",
+        ]},
+        '#000000ff': { name: 'Preto', images: [
+            "https://i.ibb.co/n9xWNpx/Imagem-do-Whats-App-de-2025-10-15-s-19-30-31-799647eb.jpg",
+        ]},
+        '#724f14ff': { name: 'Marrom', images: [
+            "https://i.ibb.co/YTLFPD9L/Imagem-do-Whats-App-de-2025-10-15-s-19-30-30-88877e6a.jpg",
+        ]},
+    }},
       
       
 
@@ -860,7 +936,7 @@ function App() {
 
   return (
     <>
-      <Helmet>
+      <Helmet>t
         <title>WR Importados - Qualidade e Estilo</title>
         <meta name="description" content="Encontre tênis, chinelos, meias e acessórios exclusivos. A melhor qualidade e estilo para você." />
         <link rel="preconnect" href="https://fonts.googleapis.com" />

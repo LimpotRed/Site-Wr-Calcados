@@ -223,6 +223,8 @@ export default defineConfig({
 		},
 	},
 	build: {
+		outDir: 'dist',        // 🔹 adiciona a pasta de saída
+		emptyOutDir: true,     // 🔹 limpa a pasta antes de cada build
 		rollupOptions: {
 			external: [
 				'@babel/parser',
