@@ -202,7 +202,7 @@ logger.error = (msg, options) => {
 }
 
 export default defineConfig({
-	base: '/Site-Wr-Calcados/',
+	base: './',
 	customLogger: logger,
 	plugins: [
 		...(isDev ? [inlineEditPlugin(), editModeDevPlugin(), iframeRouteRestorationPlugin()] : []),
