@@ -211,6 +211,8 @@ function App() {
             "https://i.ibb.co/bjSgTHTn/IMG-20251006-WA0251.jpg",
             "https://i.ibb.co/h69By4x/IMG-20251006-WA0266.jpg",
             "https://i.ibb.co/Q3PTJcn2/IMG-20251006-WA0265.jpg",
+            "https://i.ibb.co/BVbFvyK8/Imagem-do-Whats-App-de-2025-10-16-s-13-48-38-76afbff0.jpg",
+            "https://i.ibb.co/skkWcTv/Imagem-do-Whats-App-de-2025-10-16-s-13-48-37-bdf3cb2b.jpg"
         ]},
         '#97502fff': { name: 'Marrom', images: [
           "https://i.ibb.co/JWnwgkfx/IMG-20251010-WA0706.jpg",
@@ -222,6 +224,9 @@ function App() {
             "https://i.ibb.co/GvPPZxzf/IMG-20251006-WA0261.jpg",
             "https://i.ibb.co/Q3PTJcn2/IMG-20251006-WA0265.jpg",
             "https://i.ibb.co/fdmD6tKD/IMG-20251006-WA0262.jpg",
+        ]},
+        '#9d001dff': { name: 'Vermelho', images: [
+          "https://i.ibb.co/mVgg40pH/Imagem-do-Whats-App-de-2025-10-16-s-13-48-36-a80e797d.jpg",
         ]},
     }},
 //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
@@ -261,7 +266,9 @@ function App() {
               "https://i.ibb.co/VF1rSYH/IMG-20251006-WA0246.jpg",
               "https://i.ibb.co/S463v8JM/IMG-20251006-WA0244.jpg",
               "https://i.ibb.co/Z67TjP8Z/IMG-20251006-WA0248.jpg",
-              "https://i.ibb.co/9kFDNJjy/IMG-20251006-WA0236.jpg"
+              "https://i.ibb.co/9kFDNJjy/IMG-20251006-WA0236.jpg",
+              "https://i.ibb.co/wrNPxNhz/Imagem-do-Whats-App-de-2025-10-16-s-13-48-36-f9cae77f.jpg",
+              "https://i.ibb.co/9kj0pN44/Imagem-do-Whats-App-de-2025-10-16-s-13-48-36-990ed16b.jpg"
           ]},
       }},
 //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
@@ -874,6 +881,56 @@ function App() {
         ]},
         '#724f14ff': { name: 'Marrom', images: [
             "https://i.ibb.co/YTLFPD9L/Imagem-do-Whats-App-de-2025-10-15-s-19-30-30-88877e6a.jpg",
+        ]},
+    }},
+    //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 47, name: 'All Star Low', category: 'Tênis', oldPrice: 'R$ 199,90', price: 'R$ 170,00', priceValue: 170.00, gender: 'Feminino', colors: {
+        '#ffffffff': { name: 'Branco', images: [
+            "https://i.ibb.co/pvNX5Zjc/IMG-20251016-WA0129.jpg",
+          "https://i.ibb.co/5h1nc3Nr/IMG-20251016-WA0128.jpg",
+          "https://i.ibb.co/Y4HVSwSP/IMG-20251016-WA0131.jpg",
+          "https://i.ibb.co/Gfd2TZnq/IMG-20251016-WA0126.jpg",
+        ]},
+        '#000000ff': { name: 'Preto', images: [
+            "https://i.ibb.co/ycyY3Zbz/IMG-20251016-WA0099.jpg",
+            "https://i.ibb.co/VWkqF2Xj/IMG-20251016-WA0100.jpg",
+            "https://i.ibb.co/JW7fnXgr/IMG-20251016-WA0098.jpg",
+            "https://i.ibb.co/7x0K5VSG/IMG-20251016-WA0102.jpg"
+        ]},
+        '#721414ff': { name: 'Vermelho', images: [
+            "https://i.ibb.co/qL1bwwXP/IMG-20251016-WA0092.jpg",
+            "https://i.ibb.co/BVsM9Ljz/IMG-20251016-WA0093.jpg",
+            "https://i.ibb.co/HLLdxx3B/IMG-20251016-WA0096.jpg",
+            "https://i.ibb.co/VrSvXfy/IMG-20251016-WA0095.jpg"
+
+        ]},
+        '#cd4990ff': { name: 'Rosa', images: [
+            "https://i.ibb.co/DHgZGsrY/IMG-20251016-WA0084.jpg",
+            "https://i.ibb.co/3mfjz51F/IMG-20251016-WA0082.jpg",
+            "https://i.ibb.co/LdjBZKkx/IMG-20251016-WA0085.jpg",
+            "https://i.ibb.co/6cZ14K3H/IMG-20251016-WA0087.jpg"
+        ]},
+    }},
+     //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 48, name: 'All Star Botinha', category: 'Tênis', oldPrice: 'R$ 249,90', price: 'R$ 200,00', priceValue: 200.00, gender: 'Feminino', colors: {
+        '#ffffffff': { name: 'Branco', images: [
+            "https://i.ibb.co/BHxnFxMX/IMG-20251016-WA0106.jpg",
+          "https://i.ibb.co/4R6B4kQ2/IMG-20251016-WA0107.jpg",
+          "https://i.ibb.co/9HBz5YYM/IMG-20251016-WA0104.jpg",
+          "https://i.ibb.co/S43Wzn6b/IMG-20251016-WA0105.jpg",
+        ]},
+        '#721414ff': { name: 'Vermelho', images: [
+            "https://i.ibb.co/HDBchtFC/IMG-20251016-WA0112.jpg",
+            "https://i.ibb.co/DgtdXZ96/IMG-20251016-WA0113.jpg",
+            "https://i.ibb.co/J1Y0Rvd/IMG-20251016-WA0108.jpg",
+            "https://i.ibb.co/4RgYdKpM/IMG-20251016-WA0114.jpg"
+
+        ]},
+        '#cd4990ff': { name: 'Rosa', images: [
+            "https://i.ibb.co/TqphsPLW/IMG-20251016-WA0118.jpg",
+            "https://i.ibb.co/TD9kTcBY/IMG-20251016-WA0122.jpg",
+            "https://i.ibb.co/ycRQDjYy/IMG-20251016-WA0125.jpg",
+            "https://i.ibb.co/G33cH2hV/IMG-20251016-WA0120.jpg"
         ]},
     }},
       
