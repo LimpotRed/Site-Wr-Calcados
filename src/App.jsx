@@ -468,6 +468,12 @@ function App() {
               "https://i.ibb.co/YBM7XYkM/IMG-20251010-WA0946.jpg",
               "https://i.ibb.co/XkC2qjbH/IMG-20251010-WA0943.jpg",
               "https://i.ibb.co/XrmzfB2v/IMG-20251010-WA0944.jpg",
+              "https://i.ibb.co/gZf9WYmf/Imagem-do-Whats-App-de-2025-10-17-s-10-27-17-7bf77b54.jpg",
+              "https://i.ibb.co/fdYn80s4/Imagem-do-Whats-App-de-2025-10-17-s-10-27-16-c58e28b8.jpg",
+              "https://i.ibb.co/SXHTFXKN/Imagem-do-Whats-App-de-2025-10-17-s-10-27-18-4d438ff5.jpg",
+              "https://i.ibb.co/9312TWGz/Imagem-do-Whats-App-de-2025-10-17-s-10-27-43-497b3c96.jpg",
+              "https://i.ibb.co/8Rr09v1/Imagem-do-Whats-App-de-2025-10-17-s-10-27-47-520af20a.jpg",
+              "https://i.ibb.co/w361cV4/Imagem-do-Whats-App-de-2025-10-17-s-10-27-46-a0a749ea.jpg"
           ]},
       }},
 //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
