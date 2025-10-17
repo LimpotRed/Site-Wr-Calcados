@@ -719,6 +719,9 @@ function App() {
             "https://i.ibb.co/YFdKnxdd/IMG-20251010-WA0894.jpg",
             "https://i.ibb.co/7xfS21jk/IMG-20251010-WA0882.jpg",
             "https://i.ibb.co/BpcHB0m/IMG-20251010-WA0880.jpg",
+            "https://i.ibb.co/HfcVM2Hx/IMG-20251017-WA0141.jpg",
+            "https://i.ibb.co/6R2sD5DY/IMG-20251017-WA0144.jpg",
+            "https://i.ibb.co/S4K8QKKp/IMG-20251017-WA0149.jpg"
               
           ]},
           '#000000ff': { name: 'Preto', images: [
@@ -727,7 +730,12 @@ function App() {
             "https://i.ibb.co/YFJr9ZG3/IMG-20251010-WA0889.jpg",
             "https://i.ibb.co/Kd76Qcm/IMG-20251010-WA0888.jpg",
             "https://i.ibb.co/pvQz079c/IMG-20251010-WA0881.jpg",
-            "https://i.ibb.co/kbztst4/IMG-20251010-WA0878.jpg"
+            "https://i.ibb.co/kbztst4/IMG-20251010-WA0878.jpg",
+            "https://i.ibb.co/pv2Snm5N/IMG-20251017-WA0140.jpg",
+            "https://i.ibb.co/C5rvjFkH/IMG-20251017-WA0163.jpg",
+            "https://i.ibb.co/PsxDZzBq/IMG-20251017-WA0142.jpg",
+            "https://i.ibb.co/6JnCGkk9/IMG-20251017-WA0143.jpg",
+            "https://i.ibb.co/Rk0S57yn/IMG-20251017-WA0148.jpg"
 
           ]},
       }},
@@ -749,6 +757,10 @@ function App() {
       { id: 36, name: 'Chinela Puma', category: 'Chinelos', oldPrice: 'R$ 115,00', price: 'R$ 70,00', priceValue: 70.00, gender: 'Unisex', colors: {
           '#ffffffff': { name: 'Branco', images: [
             "https://i.ibb.co/cSMXPRBK/IMG-20251010-WA0879.jpg",
+              
+          ]},
+          '#000000ff': { name: 'Preto', images: [
+            "https://i.ibb.co/prXNXZrV/IMG-20251017-WA0145.jpg",
               
           ]},
       }},
@@ -792,7 +804,10 @@ function App() {
           '#000000ff': { name: 'Preto', images: [
             "https://i.ibb.co/QjbPGvH6/IMG-20251010-WA0875.jpg",
             "https://i.ibb.co/yBkcRfRw/IMG-20251010-WA0887.jpg",
-            "https://i.ibb.co/3mypK7td/IMG-20251010-WA0876.jpg"
+            "https://i.ibb.co/3mypK7td/IMG-20251010-WA0876.jpg",
+          ]},
+          '#ffffffff': { name: 'Branco', images: [
+           "https://i.ibb.co/zWHMwt13/IMG-20251017-WA0155.jpg"
           ]},
       }},
        //----------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -948,8 +963,277 @@ function App() {
           "https://i.ibb.co/pjy1hVMx/Imagem-do-Whats-App-de-2025-10-16-s-14-28-13-583e5f8b.jpg",
         ]},
     }},
-      
-      
+     //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 50, name: 'Bolsa Diesel', category: 'Acessórios', oldPrice: 'R$ 290,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'feminino', colors: {
+        '#ffffffff': { name: 'Branco', images: [
+            "https://i.ibb.co/dJ5TJV3G/Imagem-do-Whats-App-de-2025-10-16-s-14-52-22-c65bfc12.jpg",
+        ]},
+        '#050505ff': { name: 'Preto', images: [
+            "https://i.ibb.co/yFjqMgvB/Imagem-do-Whats-App-de-2025-10-16-s-14-52-23-3634f981.jpg",
+        ]},
+        '#971677ff': { name: 'Rosa', images: [
+            "https://i.ibb.co/v6PF24wf/Imagem-do-Whats-App-de-2025-10-16-s-14-52-23-2eb703d5.jpg",
+        ]},
+        '#a5dd0aff': { name: 'Amarelo', images: [
+            "https://i.ibb.co/23y0rNYg/Imagem-do-Whats-App-de-2025-10-16-s-14-52-23-d764fcbe.jpg",
+        ]},
+    }},
+      //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 51, name: 'Bolsa Gucci', category: 'Acessórios', oldPrice: 'R$ 270,00', price: 'R$ 230,00', priceValue: 230.00, gender: 'feminino', colors: {
+        '#ffffffff': { name: 'Branco', images: [
+            "https://i.ibb.co/V7smYMb/Imagem-do-Whats-App-de-2025-10-16-s-14-52-25-0e2909aa.jpg",
+        ]},
+        '#050505ff': { name: 'Preto', images: [
+            "https://i.ibb.co/bRFk6fsT/Imagem-do-Whats-App-de-2025-10-16-s-14-52-26-7986d80c.jpg",
+        ]},
+        '#573912ff': { name: 'Marrom', images: [
+            "https://i.ibb.co/27ZWGKwh/Imagem-do-Whats-App-de-2025-10-16-s-14-52-25-c7398dd3.jpg",
+        ]},
+        '#daa05fff': { name: 'Bege', images: [
+            "https://i.ibb.co/wZPwVWP2/Imagem-do-Whats-App-de-2025-10-16-s-14-52-25-b76fd58b.jpg",
+        ]},
+        '#c01515ff': { name: 'Vermelho', images: [
+            "https://i.ibb.co/nsdbx3rW/Imagem-do-Whats-App-de-2025-10-16-s-14-52-24-fa103faf.jpg",
+        ]},
+    }},
+     //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 52, name: 'Bolsa Gucci', category: 'Acessórios', oldPrice: 'R$ 220,00', price: 'R$ 180,00', priceValue: 180.00, gender: 'feminino', colors: {
+        '#ffffffff': { name: 'Branco', images: [
+            "https://i.ibb.co/99gXVm2f/Imagem-do-Whats-App-de-2025-10-16-s-14-52-40-0f79d191.jpg",
+            "https://i.ibb.co/LDHWBs4p/Imagem-do-Whats-App-de-2025-10-16-s-14-52-40-bbc21dca.jpg",
+            "https://i.ibb.co/5W8yjjYZ/Imagem-do-Whats-App-de-2025-10-16-s-14-52-39-b3947bb5.jpg",
+            "https://i.ibb.co/qYhb1Vtt/Imagem-do-Whats-App-de-2025-10-16-s-14-52-40-dcd51e0f.jpg"
+        ]},
+        '#797979ff': { name: 'Cinza', images: [
+            "https://i.ibb.co/4wPHJf71/Imagem-do-Whats-App-de-2025-10-16-s-14-52-39-a785ab03.jpg",
+            "https://i.ibb.co/9mrzytHZ/Imagem-do-Whats-App-de-2025-10-16-s-14-52-38-8c763e42.jpg",
+            "https://i.ibb.co/N6jtMGDK/Imagem-do-Whats-App-de-2025-10-16-s-14-52-39-b15ab136.jpg"
+        ]},
+    }},
+    //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 53, name: 'Bolsa Gucci', category: 'Acessórios', oldPrice: 'R$ 280,00', price: 'R$ 230,00', priceValue: 230.00, gender: 'feminino', colors: {
+        '#ffffffff': { name: 'Branco', images: [
+            "https://i.ibb.co/ZzzqNrfq/IMG-20251016-WA0171.jpg",
+            "https://i.ibb.co/Ngw3smLp/IMG-20251016-WA0172.jpg",
+            "https://i.ibb.co/yBntnL46/IMG-20251016-WA0173.jpg",
+        ]},
+        '#000000ff': { name: 'Preto', images: [
+            "https://i.ibb.co/dwL8XR38/IMG-20251016-WA0161.jpg",
+            "https://i.ibb.co/3mrcjgkW/IMG-20251016-WA0163.jpg",
+            "https://i.ibb.co/rBgW13V/IMG-20251016-WA0162.jpg"
+        ]},
+    }},
+    //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 54, name: 'Bolsa Guess', category: 'Acessórios', oldPrice: 'R$ 310,00', price: 'R$ 260,00', priceValue: 260.00, gender: 'feminino', colors: {
+        '#ffffffff': { name: 'Branco', images: [
+            "https://i.ibb.co/jnM9rr8/Imagem-do-Whats-App-de-2025-10-16-s-15-12-20-cb25beb9.jpg",
+        ]},
+        '#cc0f8dff': { name: 'Rosa', images: [
+            "https://i.ibb.co/7tzjkZHX/Imagem-do-Whats-App-de-2025-10-16-s-15-12-21-b9da33b9.jpg",
+        ]},
+        '#ce60a9ff': { name: 'Rosa Claro', images: [
+            "https://i.ibb.co/LDBqRRnj/Imagem-do-Whats-App-de-2025-10-16-s-15-12-20-52a3277f.jpg",
+        ]},
+        '#644522ff': { name: ' Marrom', images: [
+            "https://i.ibb.co/h1nfFTjK/Imagem-do-Whats-App-de-2025-10-16-s-15-12-21-40f431cd.jpg",
+        ]},
+        '#bdbdbdff': { name: ' Prata', images: [
+            "https://i.ibb.co/pB3ZSXc2/Imagem-do-Whats-App-de-2025-10-16-s-15-12-21-4b810f55.jpg",
+        ]},
+        '#a09002ff': { name: ' Dourado', images: [
+            "https://i.ibb.co/Kp9bfBt1/Imagem-do-Whats-App-de-2025-10-16-s-15-12-20-f7e2f70b.jpg",
+        ]},
+    }},
+    //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 55, name: 'Bolsa Louis Vuitton', category: 'Acessórios', oldPrice: 'R$ 220,00', price: 'R$ 190,00', priceValue: 190.00, gender: 'feminino', colors: {
+        '#ffffffff': { name: 'Branco', images: [
+            "https://i.ibb.co/KSGhqz0/Imagem-do-Whats-App-de-2025-10-16-s-15-12-14-2af04162.jpg",
+            "https://i.ibb.co/xKzRqNB1/Imagem-do-Whats-App-de-2025-10-16-s-15-12-13-5e10c8b8.jpg"
+        ]},
+        '#000000ff': { name: 'Preto', images: [
+            "https://i.ibb.co/0pZNkFWx/Imagem-do-Whats-App-de-2025-10-16-s-15-12-13-a6f0832d.jpg",
+            "https://i.ibb.co/hFt71szX/Imagem-do-Whats-App-de-2025-10-16-s-15-12-13-dfe46849.jpg"
+        ]},
+    }},
+    //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 56, name: 'Bolsa Louis Vuitton', category: 'Acessórios', oldPrice: 'R$ 220,00', price: 'R$ 190,00', priceValue: 190.00, gender: 'feminino', colors: {
+        '#000000ff': { name: 'Preto', images: [
+            "https://i.ibb.co/nM520Vpf/Imagem-do-Whats-App-de-2025-10-16-s-15-12-04-ee37bc13.jpg",
+            "https://i.ibb.co/bDnDZ2C/Imagem-do-Whats-App-de-2025-10-16-s-15-12-04-2d3e23f2.jpg",
+            "https://i.ibb.co/zWrpyqZW/Imagem-do-Whats-App-de-2025-10-16-s-15-12-03-f0cecd12.jpg"
+        ]},
+    }},
+    //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 57, name: 'Bolsa Louis Vuitton', category: 'Acessórios', oldPrice: 'R$ 220,00', price: 'R$ 180,00', priceValue: 180.00, gender: 'feminino', colors: {
+        '#000000ff': { name: 'Preto', images: [
+            "https://i.ibb.co/gbWQwZmS/Imagem-do-Whats-App-de-2025-10-16-s-14-52-07-e488f190.jpg",
+            "https://i.ibb.co/DDZcvyF3/Imagem-do-Whats-App-de-2025-10-16-s-14-52-06-d2f1fe42.jpg",
+            "https://i.ibb.co/qw4QScc/Imagem-do-Whats-App-de-2025-10-16-s-14-52-06-5eb3ab1e.jpg"
+        ]},
+    }},
+    //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 58, name: 'Bolsa de mão Louis Vuitton', category: 'Acessórios', oldPrice: 'R$ 110,00', price: 'R$ 95,00', priceValue: 95.00, gender: 'feminino', colors: {
+        '#55370bff': { name: 'Marrom', images: [
+            "https://i.ibb.co/YYGmY4W/Imagem-do-Whats-App-de-2025-10-16-s-15-12-15-1caffae2.jpg",
+            "https://i.ibb.co/b5HHtjnC/Imagem-do-Whats-App-de-2025-10-16-s-15-12-15-44b419c2.jpg",
+            "https://i.ibb.co/9kFG9b7b/Imagem-do-Whats-App-de-2025-10-16-s-15-12-15-e7c18cb3.jpg"
+        ]},
+    }},
+     //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 59, name: 'Bolsa Miu Miu', category: 'Acessórios', oldPrice: 'R$ 270,00', price: 'R$ 230,00', priceValue: 230.00, gender: 'feminino', colors: {
+        '#1963c4ff': { name: 'Azul', images: [
+            "https://i.ibb.co/Y4Kb8zmW/Imagem-do-Whats-App-de-2025-10-16-s-14-54-52-269eec24.jpg",
+            "https://i.ibb.co/sdfPhZQ0/Imagem-do-Whats-App-de-2025-10-16-s-14-54-51-8008b11e.jpg",
+            "https://i.ibb.co/3Z8y4kR/Imagem-do-Whats-App-de-2025-10-16-s-14-54-52-991edcf9.jpg"
+        ]},
+        '#81663eff': { name: 'Bege', images: [
+            "https://i.ibb.co/CsK18yzx/Imagem-do-Whats-App-de-2025-10-16-s-14-52-41-9dccaca5.jpg",
+            "https://i.ibb.co/KjwVRZqN/Imagem-do-Whats-App-de-2025-10-16-s-14-52-41-a0f005f9.jpg",
+            "https://i.ibb.co/nsR61XtW/Imagem-do-Whats-App-de-2025-10-16-s-14-52-41-f9e6510e.jpg"
+        ]},
+        '#ffffffff': { name: 'Branca', images: [
+            "https://i.ibb.co/hRdZb0jS/Imagem-do-Whats-App-de-2025-10-16-s-14-52-04-46b4bced.jpg",
+            "https://i.ibb.co/WCy8TYZ/Imagem-do-Whats-App-de-2025-10-16-s-14-52-03-912c8451.jpg",
+            "https://i.ibb.co/1GKjpVnV/Imagem-do-Whats-App-de-2025-10-16-s-14-52-04-799a736f.jpg"
+        ]},
+        '#af1414ff': { name: 'Vermelho', images: [
+            "https://i.ibb.co/fVM1HJGp/Imagem-do-Whats-App-de-2025-10-16-s-14-52-21-088f9e8c.jpg",
+            "https://i.ibb.co/n8tSwcVD/Imagem-do-Whats-App-de-2025-10-16-s-14-52-20-4d326e76.jpg",
+            "https://i.ibb.co/DgwV7gQt/Imagem-do-Whats-App-de-2025-10-16-s-14-52-20-494be3cc.jpg"
+        ]},
+        '#000000ff': { name: 'Preto', images: [
+            "https://i.ibb.co/fh289Mn/Imagem-do-Whats-App-de-2025-10-16-s-14-51-48-c094ffaa.jpg",
+            "https://i.ibb.co/p6j4WR7j/Imagem-do-Whats-App-de-2025-10-16-s-14-51-48-4b42bdb6.jpg",
+            "https://i.ibb.co/QvZpFMQX/Imagem-do-Whats-App-de-2025-10-16-s-14-51-49-4bd34b7f.jpg"
+        ]},
+    }},
+    //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 60, name: 'Bolsa MK', category: 'Acessórios', oldPrice: 'R$ 250,00', price: 'R$ 200,00', priceValue: 200.00, gender: 'feminino', colors: {
+        '#000000ff': { name: 'Preto', images: [
+            "https://i.ibb.co/93sPJMdj/Imagem-do-Whats-App-de-2025-10-16-s-14-55-03-9220a953.jpg",
+            "https://i.ibb.co/V1kpQvr/Imagem-do-Whats-App-de-2025-10-16-s-14-55-02-1d4c0301.jpg",
+            "https://i.ibb.co/JjBMf2Q2/Imagem-do-Whats-App-de-2025-10-16-s-14-55-03-ea20eb89.jpg"
+        ]},
+        '#ffffffff': { name: 'Branco', images: [
+            "https://i.ibb.co/NnKwcNww/Imagem-do-Whats-App-de-2025-10-16-s-14-55-11-3b856c5e.jpg",
+            "https://i.ibb.co/v4zBKc8m/Imagem-do-Whats-App-de-2025-10-16-s-14-55-10-1a1db47b.jpg",
+            "https://i.ibb.co/gZk6DMMw/Imagem-do-Whats-App-de-2025-10-16-s-14-55-10-2ace5219.jpg"
+        ]},
+    }},
+    //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 61, name: 'Bolsa Prada', category: 'Acessórios', oldPrice: 'R$ 280,00', price: 'R$ 230,00', priceValue: 230.00, gender: 'feminino', colors: {
+        '#000000ff': { name: 'Preto', images: [
+            "https://i.ibb.co/0yh8Tmr6/Imagem-do-Whats-App-de-2025-10-16-s-15-12-19-15216938.jpg",
+        ]},
+        '#ffffffff': { name: 'Branco', images: [
+            "https://i.ibb.co/7JCGrBQF/Imagem-do-Whats-App-de-2025-10-16-s-15-12-19-6ac464dc.jpg",
+        ]},
+        '#6d6d6dff': { name: 'Prata', images: [
+            "https://i.ibb.co/tTCDLk5j/Imagem-do-Whats-App-de-2025-10-16-s-15-12-20-2b8bc59e.jpg",
+        ]},
+        '#737441ff': { name: 'Dourada', images: [
+            "https://i.ibb.co/DDqtj2sj/Imagem-do-Whats-App-de-2025-10-16-s-15-12-20-a6ed4da3.jpg",
+        ]},
+    }},
+     //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 62, name: 'Bolsa Prada', category: 'Acessórios', oldPrice: 'R$ 190,00', price: 'R$ 170,00', priceValue: 170.00, gender: 'feminino', colors: {
+        '#ffffffff': { name: 'Branca', images: [
+            "https://i.ibb.co/xyQNm35/Imagem-do-Whats-App-de-2025-10-16-s-14-52-47-03eb2c39.jpg",
+            "https://i.ibb.co/gMXZ1TmG/Imagem-do-Whats-App-de-2025-10-16-s-14-52-46-ef6faf24.jpg",
+
+        ]},
+    }},
+     //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 63, name: 'Bolsa Prada', category: 'Acessórios', oldPrice: 'R$ 280,00', price: 'R$ 240,00', priceValue: 240.00, gender: 'feminino', colors: {
+        '#000000ff': { name: 'Preto', images: [
+            "https://i.ibb.co/0j5W2L4F/Imagem-do-Whats-App-de-2025-10-16-s-14-52-26-e7ae133e.jpg",
+            "https://i.ibb.co/v4drJvzx/Imagem-do-Whats-App-de-2025-10-16-s-14-52-26-2b70adee.jpg"
+        ]},
+        '#ffffffff': { name: 'Branco', images: [
+            "https://i.ibb.co/C3H6vmxy/Imagem-do-Whats-App-de-2025-10-16-s-14-52-21-7eb4bc9f.jpg",
+            "https://i.ibb.co/fd8VBshf/Imagem-do-Whats-App-de-2025-10-16-s-14-52-22-17488e83.jpg"
+        ]},
+        '#6b481bff': { name: 'Marrom', images: [
+            "https://i.ibb.co/qYZj0ffb/Imagem-do-Whats-App-de-2025-10-16-s-14-52-24-9c54dc8e.jpg",
+            "https://i.ibb.co/Kcsv6ZTt/Imagem-do-Whats-App-de-2025-10-16-s-14-52-24-1c044d9a.jpg"
+        ]},
+    }},
+     //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 64, name: 'Bolsa Prada', category: 'Acessórios', oldPrice: 'R$ 270,00', price: 'R$ 220,00', priceValue: 220.00, gender: 'feminino', colors: {
+        '#000000ff': { name: 'Preto', images: [
+            "https://i.ibb.co/WNcFnpKy/Imagem-do-Whats-App-de-2025-10-16-s-14-52-37-25ac4dca.jpg",
+            "https://i.ibb.co/nqF1Cv85/Imagem-do-Whats-App-de-2025-10-16-s-14-52-36-1e6f27ce.jpg",
+            "https://i.ibb.co/7x7QQ4Tw/Imagem-do-Whats-App-de-2025-10-16-s-14-52-36-0e67796f.jpg"
+        ]},
+    }},
+     //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 65, name: 'Bolsa Valentino Garavani', category: 'Acessórios', oldPrice: 'R$ 250,00', price: 'R$ 220,00', priceValue: 220.00, gender: 'feminino', colors: {
+        '#000000ff': { name: 'Preto', images: [
+            "https://i.ibb.co/XdD3MCr/Imagem-do-Whats-App-de-2025-10-16-s-14-48-50-2bf3dcc9.jpg",
+            "https://i.ibb.co/nqZJfBm6/Imagem-do-Whats-App-de-2025-10-16-s-14-48-51-2363d277.jpg"
+        ]},
+        '#ffffffff': { name: 'Branco', images: [
+            "https://i.ibb.co/zHHxLGb8/Imagem-do-Whats-App-de-2025-10-16-s-14-48-54-94de7c90.jpg",
+            "https://i.ibb.co/bM0fhpML/Imagem-do-Whats-App-de-2025-10-16-s-14-48-54-fcce0e52.jpg"
+        ]},
+      }},  
+      //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 66, name: 'Bolsa Alo', category: 'Acessórios', oldPrice: 'R$ 250,00', price: 'R$ 200,00', priceValue: 200.00, gender: 'feminino', colors: {
+        '#000000ff': { name: 'Preto', images: [
+            "https://i.ibb.co/qFcQ93Sq/IMG-20251017-WA0096.jpg",
+            "https://i.ibb.co/b59fzM7R/IMG-20251017-WA0094.jpg"
+        ]},
+        '#ce509eff': { name: 'Rosa', images: [
+            "https://i.ibb.co/FbZks1BG/IMG-20251017-WA0090.jpg",
+            "https://i.ibb.co/84skZK8C/IMG-20251017-WA0095.jpg",
+            "https://i.ibb.co/N6RcgQXw/IMG-20251017-WA0091.jpg",
+            "https://i.ibb.co/Kx9Vtn5t/IMG-20251017-WA0099.jpg"
+        ]},
+        '#1e29c5ff': { name: 'Azul', images: [
+            "https://i.ibb.co/FbRDHSr6/IMG-20251017-WA0097.jpg",
+            "https://i.ibb.co/1fS65bBs/IMG-20251017-WA0092.jpg"
+        ]},
+        '#26962cff': { name: 'Verde', images: [
+            "https://i.ibb.co/xqNBD0hx/IMG-20251017-WA0093.jpg",
+        ]},
+        '#ac1010ff': { name: 'Vermelho', images: [
+            "https://i.ibb.co/MD0cxC6f/IMG-20251017-WA0098.jpg",
+            
+        ]},
+      }},  
+       //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 67, name: 'Chinelos Boss / Armaf', category: 'Chinelos', oldPrice: 'R$ 115,00', price: 'R$ 70,00', priceValue: 70.00, gender: 'feminino', colors: {
+        '#000000ff': { name: 'Preto', images: [
+           "https://i.ibb.co/VWDX0STF/IMG-20251017-WA0161.jpg",
+           "https://i.ibb.co/vx3DBxqt/IMG-20251017-WA0160.jpg",
+           "https://i.ibb.co/qYstKg1n/IMG-20251017-WA0159.jpg",
+           "https://i.ibb.co/pjVfSQrv/IMG-20251017-WA0158.jpg",
+           "https://i.ibb.co/nN91BHC4/IMG-20251017-WA0152.jpg",
+           "https://i.ibb.co/7tkjNt98/IMG-20251017-WA0150.jpg"
+        ]},
+        '#ffffffff': { name: 'Branco', images: [
+           "https://i.ibb.co/ksHG8c2P/IMG-20251017-WA0162.jpg",
+           "https://i.ibb.co/spRBdwG3/IMG-20251017-WA0157.jpg",
+           "https://i.ibb.co/vCyXyVgM/IMG-20251017-WA0156.jpg",
+           "https://i.ibb.co/DfBkxhst/IMG-20251017-WA0153.jpg",
+           "https://i.ibb.co/gMhN7YBK/IMG-20251017-WA0151.jpg"
+
+            
+        ]},
+      }},  
+          //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    { id: 68, name: 'Chinelos Burberry ', category: 'Chinelos', oldPrice: 'R$ 115,00', price: 'R$ 70,00', priceValue: 70.00, gender: 'feminino', colors: {
+        '#000000ff': { name: 'Preto', images: [
+          "https://i.ibb.co/gZ93pyKS/IMG-20251017-WA0146.jpg"
+        ]},
+        '#ffffffff': { name: 'Branco', images: [
+        "https://i.ibb.co/ZRZyHbSY/IMG-20251017-WA0147.jpg"
+            
+        ]},
+      }},  
+    
+    
+ 
 
   ];
   //aqui voce coloca os indices dos produtos que vao para o em alta
